@@ -1,0 +1,20 @@
+2025-07-23 17:28:25,890 | INFO | START
+2025-07-23 17:28:25,890 | INFO | Reading CSV file.
+2025-07-23 17:28:25,910 | INFO | Spliting data.
+2025-07-23 17:28:25,914 | INFO | Data cleaning.
+2025-07-23 17:28:26,674 | INFO | Running visualizations.
+2025-07-23 17:28:30,008 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:30,013 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:30,403 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:30,409 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:30,806 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:30,815 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:31,150 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:31,155 | INFO | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-23 17:28:31,433 | INFO | 'Fare' column cleaning.
+2025-07-23 17:28:31,445 | INFO | Creating base models.
+2025-07-23 17:28:31,446 | INFO | Creating models with feature selection/extraction.
+2025-07-23 17:28:31,446 | INFO | Creating models with parameters for hyperparameter tuning.
+2025-07-23 17:28:31,446 | INFO | Models evaluation.
+2025-07-23 17:29:02,983 | INFO | Prediction from file.
+2025-07-23 17:29:02,995 | INFO | END
